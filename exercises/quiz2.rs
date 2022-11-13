@@ -20,6 +20,7 @@
 
 // I AM NOT DONE
 
+
 pub enum Command {
     Uppercase,
     Trim,
